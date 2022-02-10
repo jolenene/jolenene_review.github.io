@@ -1,0 +1,47 @@
+@import url("media/spectral-v11-latin-regular.woff");
+
+.generalclass {
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+
+    margin: 10px;
+    padding: 10px;
+    display: none;
+    margin-top: -400px;
+  }
+ 
+  body{
+    cursor: url(media/katcursor1.png) 4 12, auto;
+    cursor: url(media/katcursor3.png) 2 2, pointer;
+  }
+  
+  .button{
+      background: none;
+      padding: 10px;
+      border-radius: 5px;
+      color: #FFFFFF;
+      font-size: 16px;
+      border: none;  
+      margin-left: 150px; 
+      margin-top:200px;
+      
+      
+  }
+
+  
+
+  
+  .button:hover{
+          
+  }
+  p{
+    font-family: 'Spectral';
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 100px;
+    color:darkorchid;
+    margin-left:-50px;
+  }
+
+  
